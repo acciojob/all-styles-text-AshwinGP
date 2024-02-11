@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-div{
+.main{
 	width:200px;
-	 border-left-width:5px;
 	 background-color:purple;
 	 border-left: solid green;
+	 border-left-width:5px;
 	padding:10px;
 }
  .heading{
